@@ -1,7 +1,7 @@
 {
   "name": "dica_diaria",
   "version": "0.1.0",
-  "main": "App.js",
+  "main": "src/App.js",
   "scripts": {
     "start": "node src/App.js"
   },
